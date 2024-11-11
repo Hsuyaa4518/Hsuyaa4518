@@ -55,6 +55,7 @@ I'm a passionate Fullstack Developer with a keen interest in blockchain technolo
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Hardhat" src="https://img.shields.io/badge/-Hardhat-181717?style=flat-square&logo=hardhat&logoColor=white" />
+  <img alt="Bitcoin Script" src="https://img.shields.io/badge/-Bitcoin%20Script-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
 </div>
 
 ### My GitHub Stats 📊
