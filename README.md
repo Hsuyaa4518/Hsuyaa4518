@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="./assets/header-image.png" alt="Ayush Pandey - Fullstack Developer & Blockchain Enthusiast" width="100%">
-</div>
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
 <h3 align="center">A passionate Fullstack Developer and Blockchain Enthusiast</h3>
 
