@@ -94,8 +94,10 @@ RUNTIME: Full-Stack + Blockchain + Cross-Platform
 </div>
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsuyaa4518&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hsuyaa4518&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hsuyaa4518&theme=github_dark" />
 </div>
+
 
 <br />
 
