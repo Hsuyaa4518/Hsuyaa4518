@@ -89,7 +89,6 @@ RUNTIME: Full-Stack + Blockchain + Cross-Platform
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hsuyaa4518&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hsuyaa4518&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
@@ -100,6 +99,9 @@ RUNTIME: Full-Stack + Blockchain + Cross-Platform
 
 
 <br />
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hsuyaa4518&theme=2077" />
+</div>
 
 
 ## 🌟 Fun Fact
