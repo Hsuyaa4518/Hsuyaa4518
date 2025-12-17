@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hsuyaa4518&theme=discord&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hsuyaa4518&theme=discord&row=1&margin-w=15&cache_seconds=86400" />
 </div>
 
 <br />
